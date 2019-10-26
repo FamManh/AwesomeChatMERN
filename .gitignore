@@ -1,0 +1,14 @@
+# dependencies
+/backend/node_modules
+
+# file config
+/backend/.env
+
+# dependencies
+/frontend/node_modules
+
+# config file
+/frontend/.env
+
+# production
+/frontend/build
